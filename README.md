@@ -1,0 +1,1 @@
+Welcome to my portfolio repository! This project showcases my skills in HTML and CSS through a personal website where I present my work, achievements, and contact details. This portfolio is designed to highlight my design and front-end development abilities.
